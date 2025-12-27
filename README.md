@@ -1,6 +1,6 @@
 # 🏌️‍♂️ Mateus Santos Araújo
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor`**
 
 👨‍💻 Olá! Me chamo Mateus Santos Araújo, sou de Suzano - SP e estou migrando para a área de programação.
 🎓 Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e aprendizado contínuo.
