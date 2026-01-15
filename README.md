@@ -2,10 +2,12 @@
 
 **`Desenvolvedor`**
 
-👨‍💻 Olá! Me chamo Mateus Santos Araújo, sou de Suzano - SP e estou migrando para a área de programação.
-🎓 Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e aprendizado contínuo.
-🚀 Sempre em busca de novos conhecimentos e desafios no mundo do desenvolvimento.
+👨‍🎓 Olá! Me chamo Mateus Santos Araújo, tenho 27 anos e sou de Suzano – SP.
+Atualmente, estou em transição de carreira para a área de Tecnologia da Informação, com foco em desenvolvimento de software.
 
+Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul e complemento minha formação com cursos práticos, incluindo JavaScript Completo – do básico ao avançado, pela Udemy.
+
+Sou apaixonado por tecnologia, aprendizado contínuo e resolução de problemas. Busco constantemente evoluir minhas habilidades técnicas por meio de estudos, projetos práticos e novos desafios, com o objetivo de iniciar minha carreira como desenvolvedor e crescer profissionalmente na área.
 
 
 ---
