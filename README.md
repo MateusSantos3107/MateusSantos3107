@@ -1,6 +1,6 @@
 # 🏌️‍♂️ Mateus Santos Araújo
 
-**`Desenvolvedor`**
+**`Desenvolvedor Front-End`**
 
 👨‍🎓 Olá! Me chamo Mateus Santos Araújo, tenho 27 anos e sou de Suzano – SP.
 Atualmente, estou em transição de carreira para a área de Tecnologia da Informação, com foco em desenvolvimento de software.
