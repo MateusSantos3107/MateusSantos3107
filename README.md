@@ -1,4 +1,6 @@
-<h6 align="center">👨‍🎓 Olá! Me chamo Mateus Santos Araújo, tenho 27 anos e sou de Suzano – SP. Atualmente, estou em transição de carreira para a área de Tecnologia da Informação, com foco em desenvolvimento de software.<br><br>Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul e complemento minha formação com cursos práticos, incluindo JavaScript Completo – do básico ao avançado, pela Udemy.<br><br>Sou apaixonado por tecnologia, aprendizado contínuo e resolução de problemas. Busco constantemente evoluir minhas habilidades técnicas por meio de estudos, projetos práticos e novos desafios, com o objetivo de iniciar minha carreira como desenvolvedor e crescer profissionalmente na área.</h6>
+<h6 align="center">👨‍🎓 Olá! Me chamo Mateus Santos Araújo, tenho 27 anos e sou de Suzano – SP. Atualmente, estou em transição de carreira para a área de Tecnologia da Informação, com foco em desenvolvimento de software.<br><br>Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul e complemento minha formação com cursos práticos, incluindo JavaScript Completo – do básico ao avançado, pela Udemy.<br>
+Cursando na escola online DevClub - Fullstack.  
+<br>Sou apaixonado por tecnologia, aprendizado contínuo e resolução de problemas. Busco constantemente evoluir minhas habilidades técnicas por meio de estudos, projetos práticos e novos desafios, com o objetivo de iniciar minha carreira como desenvolvedor e crescer profissionalmente na área.</h6>
 
 ###
 
